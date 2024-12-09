@@ -15,18 +15,18 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
   - Ideal for learning about deep learning models and their performance.
   - Useful for practical applications where image classification is needed.
 
-## Getting Started
+ Getting Started
 
-### Prerequisites
+# Prerequisites
 
 - Python 3.7 or later
 - A web browser
 
-### Installation
+# Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JayRathod341997/DeepLensX.git
+   git clone https://github.com/sushanttripathi04.git
    cd Implementation-of-ML-model-for-image-classification
 2. **Create and activate a virtual environment**:
     ```bash
@@ -41,9 +41,9 @@ Implementation-of-ML-model-for-image-classification is a Streamlit app that inte
 5. **Open the app**: 
     The app will open in your default web browser. If not, navigate to http://localhost:8501
 
-### Contributing
+# Contributing
   Feel free to fork the repository, open issues, or submit pull requests to contribute to the project.
 
-### Acknowledgements
+# Acknowledgements
   - Streamlit
   - TensorFlow
